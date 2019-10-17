@@ -10,7 +10,7 @@
 	<version>1.0</version>
 	<description>COM_FOO_XML_DESCRIPTION</description>
 
-	<!-- Scripts to run on installation -->
+	<!-- Scripts to run on installation!!!! -->
 	<scriptfile>script.php</scriptfile>
 
 	<!-- Runs on install -->
